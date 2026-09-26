@@ -24,7 +24,3 @@ Across these projects, analyses include:
 - Model comparison
 - Exploratory data analysis
 - Statistical visualization
-
-## Tools
-
-R · dplyr · ggplot2 · lmtest · stargazer · effsize
